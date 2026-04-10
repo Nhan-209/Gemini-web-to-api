@@ -50,7 +50,7 @@ Google provides three **completely separate** quotas for using Gemini:
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/gemini-web-proxy.git
+git clone https://github.com/Nhan-209/Gemini-web-to-api.git
 cd gemini-web-proxy
 
 # 2. Create virtual environment (Recommended)
