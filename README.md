@@ -50,7 +50,7 @@ Nếu bạn là lập trình viên thường xuyên sử dụng AI, bạn sẽ b
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/yourusername/gemini-web-proxy.git
+git clone https://github.com/Nhan-209/Gemini-web-to-api.git
 cd gemini-web-proxy
 
 # 2. Tạo môi trường ảo (Khuyến nghị)
